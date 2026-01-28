@@ -6,6 +6,8 @@ export default function Footer() {
             </div>
             <p className="text-gray-600 font-rajdhani text-sm">
                 © {new Date().getFullYear()} Ferrari S.p.A. - All Rights Reserved
+                <br />
+                Created by Mohammad Kapadia
             </p>
         </footer>
     );

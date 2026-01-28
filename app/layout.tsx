@@ -18,6 +18,7 @@ const rajdhani = Rajdhani({
 export const metadata: Metadata = {
   title: "Ferrari LaFerrari | The Reference",
   description: "Experience the pinnacle of Ferrari engineering.",
+  authors: [{ name: "Mohammad Kapadia" }],
 };
 
 export default function RootLayout({
