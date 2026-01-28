@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Orbitron, Rajdhani } from "next/font/google";
 import "./globals.css";
 
+
+
 const orbitron = Orbitron({
   subsets: ["latin"],
   variable: "--font-orbitron",
