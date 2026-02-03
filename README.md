@@ -42,4 +42,4 @@ Ensure you have Node.js installed on your machine.
 
 ## License
 
-This project is created by **Mohammad Kapadia**.
+This project is created by **Mohammed Kapadia**.
